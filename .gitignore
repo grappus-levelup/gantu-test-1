@@ -23,3 +23,196 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/*
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/*
+
+# packages file containing multi-root paths
+.packages.generated
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+../../IdeaProjects/hunbun/.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+linked_*.ds
+unlinked.ds
+unlinked_spec.ds
+.fvm/
+
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+**/android/.idea/
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+*.jks
+
+# iOS/XCode related
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*sync/
+**/ios/**/.sconsign.dblite
+**/ios/**/.tags*
+**/ios/**/.vagrant/
+**/ios/**/DerivedData/
+**/ios/**/Icon?
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/profile
+**/ios/**/xcuserdata
+**/ios/.generated/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Coverage
+coverage/
+
+# Submodules
+packages/**/pubspec.lock
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Exceptions to the above rules.
+!**/ios/**/default.mode1v3
+!**/ios/**/default.mode2v3
+!**/ios/**/default.pbxuser
+!**/ios/**/default.perspectivev3
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+!/dev/ci/**/Gemfile.lock
+!.vscode/extensions.json
+!.vscode/launch.json
+!.idea/codeStyles/
+!.idea/dictionaries/
+!.idea/runConfigurations/
+
+# Extra
+pubspec.lock
+lib/core/navigation/routes.gr.dart
+.env/*
+firebase.json
+firepit-log.txt
+lib/firebase_options.dart
+android/app/google-services.json
+.dart_tool/
+ios/Runner/GoogleService-Info.plist
+ios/Podfile.lock
+android/app/.cxx/
+android/app/.gradle/
+android/app/build/
+android/app/intermediates/
+android/app/outputs/
+android/app/src/debug/
+android/app/src/profile/
+android/app/src/release/
+# Temporary files
+*.tmp
+# Temporary directories
+tmp/
+# Build directories
+build/
+# Coverage directories
+coverage/
+# Flutter build directories
+flutter_*.png
+# Obfuscation files
+app.*.map.json
+# Symbolication files
+app.*.symbols
+# Generated files
+lib/generated_plugin_registrant.dart
+# Miscellaneous
+*.class
+*.pyc
+*.swp
+# IDE specific files
+.idea/
+# Editor specific files
+.vscode/
+# Miscellaneous files
+*.log
+# Miscellaneous directories
+.history/
+# Miscellaneous files
+*.suo
+# Miscellaneous directories
+.history/
+# Miscellaneous files
+*.iml
+# Miscellaneous directories
+.idea/
+# Miscellaneous files
+*.classpath
+# Miscellaneous files
+*.project
+# Miscellaneous directories
+.settings/
+# Miscellaneous files
+*.vscode/
+# Miscellaneous files
+*.dart_tool/
+# Miscellaneous files
+*.flutter-plugins
+# Miscellaneous files
+*.flutter-plugins-dependencies
+# Miscellaneous files
+*.packages
+# Miscellaneous files
+*.pub-cache/
+# Miscellaneous files
+# Miscellaneous files
+# Miscellaneous files
